@@ -1,0 +1,37 @@
+const leitura = require ("prompt-sync")();
+
+// let numero1 = leitura ("Diga um número: ");
+// let numero2 = leitura ("Diga o segundo número: ");
+
+
+// if (numero1 > numero2){
+//     console.log ("O número" + numero1 + "é maior que o número " + numero2);
+// }else if (numero1 < numero2){
+//     console.log ("O número" + numero2 + "é maior que o número " + numero1);
+// }else {
+//     console.log ("Os números são iguais");
+// }
+
+//////////////
+
+
+
+// let numero1 = leitura ("Diga o primeiro número: ");
+// let numero2 = leitura ("Diga o segundo número: ");
+// let numero3 = leitura ("Diga o terceiro número: ");
+// let numero4 = leitura ("Diga o quarto número: ");
+// let numero5 = leitura ("Diga o quinto número: ");
+
+// if (numero1 > numero2, numero3, numero4, numero5){
+//     console.log ("O número " + numero1 + "é o maior de todos!");
+// }else if (numero2 > numero1, numero3, numero4, numero5){
+//     console.log ("O número " + numero2 + "é o maior de todos!");
+// }else if (numero3 > numero1, numero2, numero4, numero5){
+//     console.log ("O número " + numero3 + "é o maior de todos!");
+// }else if (numero4 > numero1, numero2, numero3, numero5) {
+//     console.log ("O número " + numero4 + "é o maior de todos!");
+// }else if (numero5 > numero1, numero2, numero3, numero4) {
+//     console.log ("O número " + numero5 + " é o maior de todos!");
+// }
+
+

@@ -14,3 +14,5 @@ console.log("G- " + ((Math.pow(5,2)-4*2*8)));
 
 
 
+
+
